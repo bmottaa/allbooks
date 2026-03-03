@@ -27,7 +27,7 @@ Com os seguintes dados:
 
 
 ```
-{
+{gir 
     "nome": "vinicios neves",
     "email": "vinicios@alura.com.br",
     "senha": "123456",
